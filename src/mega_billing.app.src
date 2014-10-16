@@ -1,4 +1,4 @@
-{application, mega_billing, [
+{application, admin_helper, [
         {description, "My Awesome Web Framework"},
         {vsn, "0.0.1"},
         {modules, []},
