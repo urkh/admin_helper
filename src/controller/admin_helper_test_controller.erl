@@ -1,4 +1,4 @@
--module(mega_billing_test_controller, [Req]).
+-module(admin_helper_test_controller, [Req]).
 -compile(export_all).
 
 
