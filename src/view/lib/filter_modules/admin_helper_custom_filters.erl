@@ -1,4 +1,4 @@
--module(mega_billing_custom_filters).
+-module(admin_helper_custom_filters).
 -compile(export_all).
 
 % put custom filters in here, e.g.
